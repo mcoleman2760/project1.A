@@ -1,3 +1,12 @@
+/*
+Author: Michael Coleman
+Course: CSCI-135
+Instructor: Genady Maryash
+Assignment: Project 1A
+
+This program reads a sequence of letters and prints out its corresponding direction.
+*/
+
 #include <iostream>
 #include <string>
 int main() {
